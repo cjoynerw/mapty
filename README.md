@@ -1,5 +1,5 @@
-# Mapty
-Mapty is a workout logging app that uses a geolocation API to allow users to log workouts in specific areas.
+# RunMap
+RunMap is a workout logging app that uses a geolocation API to allow users to log workouts in specific areas.
 
 ## Access website here:
 www.github.com
